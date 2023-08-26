@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+
+  - name: census_poverty
+    project: analytics-ahs-owned-thd
+    dataset: STG5
+    tables:
+      - name: Census_Poverty_Clean_and_Mapped

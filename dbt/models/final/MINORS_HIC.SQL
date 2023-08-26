@@ -1,0 +1,4 @@
+SELECT *
+FROM {{ ref('int__hic') }}
+WHERE COC_NUMBER LIKE 'GA%'
+ORDER BY COC_NUMBER ASC

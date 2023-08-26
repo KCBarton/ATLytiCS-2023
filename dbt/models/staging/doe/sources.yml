@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+
+  - name: department_of_education
+    project: analytics-ahs-owned-thd
+    dataset: STG5
+    tables:
+      - name: Georgia_DOE_Homeless_Raw

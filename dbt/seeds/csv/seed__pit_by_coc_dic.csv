@@ -1,0 +1,571 @@
+Column Name,Data Type,Description
+CoC Number,Integer,The Continuum of Care (CoC) number for the area
+CoC Name,String,The name of the CoC
+CoC Category,String,The category of the CoC
+"Overall Homeless, [Year]",Integer,The total number of people experiencing homelessness in the CoC in [Year]
+"Overall Homeless - Under 18, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are under the age of 18
+"Overall Homeless - Age 18 to 24, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are between the ages of 18 and 24
+"Overall Homeless - Over 24, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are over the age of 24
+"Overall Homeless - Female, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are female
+"Overall Homeless - Male, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are male
+"Overall Homeless - Transgender, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who identify as transgender
+"Overall Homeless - Gender that is not Singularly Female or Male, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who do not identify as solely female or male
+"Overall Homeless - Gender Questioning, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are gender questioning
+"Overall Homeless - Non-Hispanic/Non-Latino, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are not Hispanic or Latino
+"Overall Homeless - Hispanic/Latino, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are Hispanic or Latino
+"Overall Homeless - White, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are white
+"Overall Homeless - Black, African American, or African, [Year]",Integer,"The number of people experiencing homelessness in the CoC in [Year] who are black, African American, or African"
+"Overall Homeless - Asian or Asian American, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are Asian or Asian American
+"Overall Homeless - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of people experiencing homelessness in the CoC in [Year] who are American Indian, Alaska Native, or Indigenous"
+"Overall Homeless - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who are Native Hawaiian or Other Pacific Islander
+"Overall Homeless - Multiple Races, [Year]",Integer,The number of people experiencing homelessness in the CoC in [Year] who identify with multiple races
+Sheltered ES Homeless,Integer,Total number of people experiencing sheltered homelessness in emergency shelters in [Year]
+Sheltered ES Homeless - Under 18,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are under 18 years old in [Year]
+Sheltered ES Homeless - Age 18 to 24,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are between 18 and 24 years old in [Year]
+Sheltered ES Homeless - Over 24,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are over 24 years old in [Year]
+Sheltered ES Homeless - Female,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are female in [Year]
+Sheltered ES Homeless - Male,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are male in [Year]
+Sheltered ES Homeless - Transgender,Integer,Number of people experiencing sheltered homelessness in emergency shelters who identify as transgender in [Year]
+Sheltered ES Homeless - Gender that is not Singularly Female or Male,Integer,Number of people experiencing sheltered homelessness in emergency shelters who identify with a gender that is not singularly female or male in [Year]
+Sheltered ES Homeless - Gender Questioning,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are gender questioning in [Year]
+Sheltered ES Homeless - Non-Hispanic/Non-Latino,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are non-Hispanic/non-Latino in [Year]
+Sheltered ES Homeless - Hispanic/Latino,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are Hispanic/Latino in [Year]
+Sheltered ES Homeless - White,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are white in [Year]
+"Sheltered ES Homeless - Black, African American, or African",Integer,"Number of people experiencing sheltered homelessness in emergency shelters who are black, African American, or African in [Year]"
+Sheltered ES Homeless - Asian or Asian American,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are Asian or Asian American in [Year]
+"Sheltered ES Homeless - American Indian, Alaska Native, or Indigenous",Integer,"Number of people experiencing sheltered homelessness in emergency shelters who are American Indian, Alaska Native, or Indigenous in [Year]"
+Sheltered ES Homeless - Native Hawaiian or Other Pacific Islander,Integer,Number of people experiencing sheltered homelessness in emergency shelters who are Native Hawaiian or Other Pacific Islander in [Year]
+Sheltered ES Homeless - Multiple Races,Integer,Number of people experiencing sheltered homelessness in emergency shelters who identify with multiple races in [Year]
+Sheltered TH Homeless,Integer,Total number of people experiencing sheltered homelessness in transitional housing in [Year]
+Sheltered TH Homeless - Under 18,Integer,Number of people experiencing sheltered homelessness in transitional housing who are under 18 years old in [Year]
+Sheltered TH Homeless - Age 18 to 24,Integer,Number of people experiencing sheltered homelessness in transitional housing who are between 18 and 24 years old in [Year]
+"Sheltered TH Homeless - Over 24, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who were over the age of 24 in [Year].
+"Sheltered TH Homeless - Female, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who were female in [Year].
+"Sheltered TH Homeless - Male, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who were male in [Year].
+"Sheltered TH Homeless - Transgender, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified as transgender in [Year].
+"Sheltered TH Homeless - Gender that is not Singularly Female or Male, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified with a gender that is not singularly female or male in [Year].
+"Sheltered TH Homeless - Gender Questioning, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified as gender questioning in [Year].
+"Sheltered TH Homeless - Non-Hispanic/Non-Latino, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified as non-Hispanic/non-Latino in [Year].
+"Sheltered TH Homeless - Hispanic/Latino, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified as Hispanic/Latino in [Year].
+"Sheltered TH Homeless - White, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified as white in [Year].
+"Sheltered TH Homeless - Black, African American, or African, [Year]",Integer,"The number of people experiencing sheltered transitional homelessness who identified as black, African American, or African in [Year]."
+"Sheltered TH Homeless - Asian or Asian American, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified as Asian or Asian American in [Year].
+"Sheltered TH Homeless - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of people experiencing sheltered transitional homelessness who identified as American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered TH Homeless - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered TH Homeless - Multiple Races, [Year]",Integer,The number of people experiencing sheltered transitional homelessness who identified with multiple races in [Year].
+"Sheltered SH Homeless, [Year]",Integer,The total number of people experiencing sheltered supportive homelessness in [Year].
+"Sheltered SH Homeless - Under 18, [Year]",Integer,The number of people experiencing sheltered supportive homelessness who were under the age of 18 in [Year].
+"Sheltered SH Homeless - Age 18 to 24, [Year]",Integer,The number of people experiencing sheltered supportive homelessness who were between the ages of 18 and 24 in [Year].
+"Sheltered SH Homeless - Over 24, [Year]",Integer,The number of people experiencing sheltered supportive homelessness who were over the age of 24 in [Year].
+"Sheltered SH Homeless - Female, [Year]",Integer,The number of people experiencing sheltered supportive homelessness who were female in [Year].
+"Sheltered SH Homeless - Male, [Year]",Integer,The number of people experiencing sheltered supportive homelessness who were male in [Year].
+"Sheltered SH Homeless - Transgender, [Year]",Integer,Number of sheltered homeless people who identify as transgender in [Year]
+"Sheltered SH Homeless - Gender that is not Singularly Female or Male, [Year]",Integer,Number of sheltered homeless people who identify with a gender that is not singularly female or male in [Year]
+"Sheltered SH Homeless - Gender Questioning, [Year]",Integer,Number of sheltered homeless people who are questioning their gender in [Year]
+"Sheltered SH Homeless - Non-Hispanic/Non-Latino, [Year]",Integer,Number of sheltered homeless people who are non-Hispanic/non-Latino in [Year]
+"Sheltered SH Homeless - Hispanic/Latino, [Year]",Integer,Number of sheltered homeless people who are Hispanic/Latino in [Year]
+"Sheltered SH Homeless - White, [Year]",Integer,Number of sheltered homeless people who are white in [Year]
+"Sheltered SH Homeless - Black, African American, or African, [Year]",Integer,"Number of sheltered homeless people who are black, African American, or African in [Year]"
+"Sheltered SH Homeless - Asian or Asian American, [Year]",Integer,Number of sheltered homeless people who are Asian or Asian American in [Year]
+"Sheltered SH Homeless - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of sheltered homeless people who are American Indian, Alaska Native, or Indigenous in [Year]"
+"Sheltered SH Homeless - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of sheltered homeless people who are Native Hawaiian or Other Pacific Islander in [Year]
+"Sheltered SH Homeless - Multiple Races, [Year]",Integer,Number of sheltered homeless people who identify with multiple races in [Year]
+"Sheltered Total Homeless, [Year]",Integer,Total number of sheltered homeless people in [Year]
+"Sheltered Total Homeless - Under 18, [Year]",Integer,Number of sheltered homeless people who are under 18 years old in [Year]
+"Sheltered Total Homeless - Age 18 to 24, [Year]",Integer,Number of sheltered homeless people who are between 18 and 24 years old in [Year]
+"Sheltered Total Homeless - Over 24, [Year]",Integer,Number of sheltered homeless people who are over 24 years old in [Year]
+"Sheltered Total Homeless - Female, [Year]",Integer,Number of sheltered homeless people who are female in [Year]
+"Sheltered Total Homeless - Male, [Year]",Integer,Number of sheltered homeless people who are male in [Year]
+"Sheltered Total Homeless - Non-Hispanic/Non-Latino, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified as non-Hispanic/Non-Latino."
+"Sheltered Total Homeless - Hispanic/Latino, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified as Hispanic/Latino."
+"Sheltered Total Homeless - White, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified as White."
+"Sheltered Total Homeless - Black, African American, or African, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified as Black, African American, or African."
+"Sheltered Total Homeless - Asian or Asian American, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified as Asian or Asian American."
+"Sheltered Total Homeless - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified as American Indian, Alaska Native, or Indigenous."
+"Sheltered Total Homeless - Native Hawaiian or Other Pacific Islander, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified as Native Hawaiian or Other Pacific Islander."
+"Sheltered Total Homeless - Multiple Races, [Year]",Integer,"The number of people who were homeless and sheltered in [Year], and who identified with multiple races."
+"Unsheltered Homeless, [Year]",Integer,The number of people who were homeless and unsheltered in [Year].
+"Unsheltered Homeless - Under 18, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who were under the age of 18."
+"Unsheltered Homeless - Age 18 to 24, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who were between the ages of 18 and 24."
+"Unsheltered Homeless - Over 24, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who were over the age of 24."
+"Unsheltered Homeless - Female, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified as female."
+"Unsheltered Homeless - Male, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified as male."
+"Unsheltered Homeless - Transgender, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified as transgender."
+"Unsheltered Homeless - Gender that is not Singularly Female or Male, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified with a gender that is not singularly female or male."
+"Unsheltered Homeless - Gender Questioning, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified as gender questioning."
+"Unsheltered Homeless - Non-Hispanic/Non-Latino, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified as non-Hispanic/Non-Latino."
+"Unsheltered Homeless - Hispanic/Latino, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified as Hispanic/Latino."
+"Unsheltered Homeless - White, [Year]",Integer,"The number of people who were homeless and unsheltered in [Year], and who identified as White."
+"Unsheltered Homeless - Black, African American, or African, [Year]",Integer,"Number of unsheltered homeless people who are Black, African American, or African in [Year]"
+"Unsheltered Homeless - Asian or Asian American, [Year]",Integer,Number of unsheltered homeless people who are Asian or Asian American in [Year]
+"Unsheltered Homeless - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of unsheltered homeless people who are American Indian, Alaska Native, or Indigenous in [Year]"
+"Unsheltered Homeless - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of unsheltered homeless people who are Native Hawaiian or Other Pacific Islander in [Year]
+"Unsheltered Homeless - Multiple Races, [Year]",Integer,Number of unsheltered homeless people who identify with multiple races in [Year]
+"Overall Homeless Individuals, [Year]",Integer,Total number of homeless individuals in [Year]
+"Overall Homeless Individuals - Under 18, [Year]",Integer,Number of homeless individuals under the age of 18 in [Year]
+"Overall Homeless Individuals - Age 18 to 24, [Year]",Integer,Number of homeless individuals aged 18 to 24 in [Year]
+"Overall Homeless Individuals - Over 24, [Year]",Integer,Number of homeless individuals over the age of 24 in [Year]
+"Overall Homeless Individuals - Female, [Year]",Integer,Number of homeless females in [Year]
+"Overall Homeless Individuals - Male, [Year]",Integer,Number of homeless males in [Year]
+"Overall Homeless Individuals - Transgender, [Year]",Integer,Number of homeless transgender individuals in [Year]
+"Overall Homeless Individuals - Gender that is not Singularly Female or Male, [Year]",Integer,Number of homeless individuals who do not identify as either female or male in [Year]
+"Overall Homeless Individuals - Gender Questioning, [Year]",Integer,Number of homeless individuals who are questioning their gender identity in [Year]
+"Overall Homeless Individuals - Non-Hispanic/Non-Latino, [Year]",Integer,Number of homeless individuals who are non-Hispanic/non-Latino in [Year]
+"Overall Homeless Individuals - Hispanic/Latino, [Year]",Integer,Number of homeless individuals who are Hispanic/Latino in [Year]
+"Overall Homeless Individuals - White, [Year]",Integer,Number of homeless individuals who are white in [Year]
+"Overall Homeless Individuals - Black, African American, or African, [Year]",Integer,"Number of homeless individuals who are Black, African American, or African in [Year]"
+"Overall Homeless Individuals - Asian or Asian American, [Year]",Integer,Number of homeless individuals who are Asian or Asian American in [Year]
+"Overall Homeless Individuals - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of homeless individuals who are American Indian, Alaska Native, or Indigenous in [Year]"
+"Overall Homeless Individuals - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless individuals who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Overall Homeless Individuals - Multiple Races, [Year]",Integer,The number of homeless individuals who identified with multiple races in [Year].
+"Sheltered ES Homeless Individuals, [Year]",Integer,The total number of homeless individuals who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Individuals - Under 18, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and were under the age of 18.
+"Sheltered ES Homeless Individuals - Age 18 to 24, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and were between the ages of 18 and 24.
+"Sheltered ES Homeless Individuals - Over 24, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and were over the age of 24.
+"Sheltered ES Homeless Individuals - Female, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as female.
+"Sheltered ES Homeless Individuals - Male, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as male.
+"Sheltered ES Homeless Individuals - Transgender, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as transgender.
+"Sheltered ES Homeless Individuals - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified with a gender that is not singularly female or male.
+"Sheltered ES Homeless Individuals - Gender Questioning, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and were questioning their gender identity.
+"Sheltered ES Homeless Individuals - Non-Hispanic/Non-Latino, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as non-Hispanic and non-Latino.
+"Sheltered ES Homeless Individuals - Hispanic/Latino, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as Hispanic or Latino.
+"Sheltered ES Homeless Individuals - White, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as white.
+"Sheltered ES Homeless Individuals - Black, African American, or African, [Year]",Integer,"The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as black, African American, or African."
+"Sheltered ES Homeless Individuals - Asian or Asian American, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as Asian or Asian American.
+"Sheltered ES Homeless Individuals - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as American Indian, Alaska Native, or Indigenous."
+"Sheltered ES Homeless Individuals - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified as Native Hawaiian or Other Pacific Islander.
+"Sheltered ES Homeless Individuals - Multiple Races, [Year]",Integer,The number of homeless individuals who were sheltered in emergency shelters in [Year] and identified with multiple races.
+"Sheltered TH Homeless Individuals, [Year]",Integer,The total number of homeless individuals who were sheltered in transitional housing in [Year].
+"Sheltered TH Homeless Individuals - Under 18, [Year]",Integer,The number of sheltered transitional homeless individuals under the age of 18 in [Year]
+"Sheltered TH Homeless Individuals - Age 18 to 24, [Year]",Integer,The number of sheltered transitional homeless individuals between the ages of 18 and 24 in [Year]
+"Sheltered TH Homeless Individuals - Over 24, [Year]",Integer,The number of sheltered transitional homeless individuals over the age of 24 in [Year]
+"Sheltered TH Homeless Individuals - Female, [Year]",Integer,The number of sheltered transitional homeless individuals who are female in [Year]
+"Sheltered TH Homeless Individuals - Male, [Year]",Integer,The number of sheltered transitional homeless individuals who are male in [Year]
+"Sheltered TH Homeless Individuals - Transgender, [Year]",Integer,The number of sheltered transitional homeless individuals who identify as transgender in [Year]
+"Sheltered TH Homeless Individuals - Gender that is not Singularly Female or Male, [Year]",Integer,The number of sheltered transitional homeless individuals who identify with a gender that is not singularly female or male in [Year]
+"Sheltered TH Homeless Individuals - Gender Questioning, [Year]",Integer,The number of sheltered transitional homeless individuals who are questioning their gender identity in [Year]
+"Sheltered TH Homeless Individuals - Non-Hispanic/Non-Latino, [Year]",Integer,The number of sheltered transitional homeless individuals who are non-Hispanic and non-Latino in [Year]
+"Sheltered TH Homeless Individuals - Hispanic/Latino, [Year]",Integer,The number of sheltered transitional homeless individuals who are Hispanic or Latino in [Year]
+"Sheltered TH Homeless Individuals - White, [Year]",Integer,The number of sheltered transitional homeless individuals who are white in [Year]
+"Sheltered TH Homeless Individuals - Black, African American, or African, [Year]",Integer,"The number of sheltered transitional homeless individuals who are black, African American, or African in [Year]"
+"Sheltered TH Homeless Individuals - Asian or Asian American, [Year]",Integer,The number of sheltered transitional homeless individuals who are Asian or Asian American in [Year]
+"Sheltered TH Homeless Individuals - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of sheltered transitional homeless individuals who are American Indian, Alaska Native, or Indigenous in [Year]"
+"Sheltered TH Homeless Individuals - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of sheltered transitional homeless individuals who are Native Hawaiian or Other Pacific Islander in [Year]
+"Sheltered TH Homeless Individuals - Multiple Races, [Year]",Integer,The number of sheltered transitional homeless individuals who identify with multiple races in [Year]
+"Sheltered SH Homeless Individuals, [Year]",Integer,The total number of sheltered supportive homeless individuals in [Year]
+"Sheltered SH Homeless Individuals - Under 18, [Year]",Integer,The number of sheltered supportive homeless individuals under the age of 18 in [Year]
+"Sheltered SH Homeless Individuals - Age 18 to 24, [Year]",Integer,The number of sheltered supportive homeless individuals between the ages of 18 and 24 in [Year]
+"Sheltered SH Homeless Individuals - Over 24, [Year]",Integer,The number of sheltered supportive homeless individuals over the age of 24 in [Year]
+"Sheltered SH Homeless Individuals - Female, [Year]",Integer,Number of female homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - Male, [Year]",Integer,Number of male homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - Transgender, [Year]",Integer,Number of transgender homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - Gender that is not Singularly Female or Male, [Year]",Integer,Number of homeless individuals in sheltered SH with a gender that is not singularly female or male in [Year]
+"Sheltered SH Homeless Individuals - Gender Questioning, [Year]",Integer,Number of homeless individuals in sheltered SH who are gender questioning in [Year]
+"Sheltered SH Homeless Individuals - Non-Hispanic/Non-Latino, [Year]",Integer,Number of non-Hispanic/non-Latino homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - Hispanic/Latino, [Year]",Integer,Number of Hispanic/Latino homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - White, [Year]",Integer,Number of white homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - Black, African American, or African, [Year]",Integer,"Number of black, African American, or African homeless individuals in sheltered SH in [Year]"
+"Sheltered SH Homeless Individuals - Asian or Asian American, [Year]",Integer,Number of Asian or Asian American homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of American Indian, Alaska Native, or Indigenous homeless individuals in sheltered SH in [Year]"
+"Sheltered SH Homeless Individuals - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of Native Hawaiian or Other Pacific Islander homeless individuals in sheltered SH in [Year]
+"Sheltered SH Homeless Individuals - Multiple Races, [Year]",Integer,Number of homeless individuals in sheltered SH with multiple races in [Year]
+"Sheltered Total Homeless Individuals, [Year]",Integer,Total number of homeless individuals in sheltered SH in [Year]
+"Sheltered Total Homeless Individuals - Under 18, [Year]",Integer,Number of homeless individuals under the age of 18 in sheltered SH in [Year]
+"Sheltered Total Homeless Individuals - Age 18 to 24, [Year]",Integer,Number of homeless individuals between the ages of 18 and 24 in sheltered SH in [Year]
+"Sheltered Total Homeless Individuals - Over 24, [Year]",Integer,Number of homeless individuals over the age of 24 in sheltered SH in [Year]
+"Sheltered Total Homeless Individuals - Female, [Year]",Integer,Number of female homeless individuals in sheltered SH in [Year]
+"Sheltered Total Homeless Individuals - Male, [Year]",Integer,Number of male homeless individuals in sheltered SH in [Year]
+"Sheltered Total Homeless Individuals - Transgender, [Year]",Integer,Number of transgender homeless individuals in sheltered SH in [Year]
+"Sheltered Total Homeless Individuals - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless individuals in shelters who identify as neither solely female nor solely male in [Year].
+"Sheltered Total Homeless Individuals - Gender Questioning, [Year]",Integer,The number of homeless individuals in shelters who identify as questioning their gender in [Year].
+"Sheltered Total Homeless Individuals - Non-Hispanic/Non-Latino, [Year]",Integer,The number of homeless individuals in shelters who identify as non-Hispanic or non-Latino in [Year].
+"Sheltered Total Homeless Individuals - Hispanic/Latino, [Year]",Integer,The number of homeless individuals in shelters who identify as Hispanic or Latino in [Year].
+"Sheltered Total Homeless Individuals - White, [Year]",Integer,The number of homeless individuals in shelters who identify as white in [Year].
+"Sheltered Total Homeless Individuals - Black, African American, or African, [Year]",Integer,"The number of homeless individuals in shelters who identify as black, African American, or African in [Year]."
+"Sheltered Total Homeless Individuals - Asian or Asian American, [Year]",Integer,The number of homeless individuals in shelters who identify as Asian or Asian American in [Year].
+"Sheltered Total Homeless Individuals - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless individuals in shelters who identify as American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered Total Homeless Individuals - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless individuals in shelters who identify as Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered Total Homeless Individuals - Multiple Races, [Year]",Integer,The number of homeless individuals in shelters who identify with multiple races in [Year].
+"Unsheltered Homeless Individuals, [Year]",Integer,The number of homeless individuals who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Under 18, [Year]",Integer,The number of homeless individuals under the age of 18 who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Age 18 to 24, [Year]",Integer,The number of homeless individuals between the ages of 18 and 24 who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Over 24, [Year]",Integer,The number of homeless individuals over the age of 24 who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Female, [Year]",Integer,The number of homeless females who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Male, [Year]",Integer,The number of homeless males who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Transgender, [Year]",Integer,The number of transgender homeless individuals who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless individuals who do not identify solely as female or male who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Gender Questioning, [Year]",Integer,The number of homeless individuals who are questioning their gender who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Non-Hispanic/Non-Latino, [Year]",Integer,The number of homeless individuals who do not identify as Hispanic or Latino who are not in shelters in [Year].
+"Unsheltered Homeless Individuals - Hispanic/Latino, [Year]",Integer,Number of unsheltered homeless individuals who identify as Hispanic/Latino in [Year]
+"Unsheltered Homeless Individuals - White, [Year]",Integer,Number of unsheltered homeless individuals who identify as White in [Year]
+"Unsheltered Homeless Individuals - Black, African American, or African, [Year]",Integer,"Number of unsheltered homeless individuals who identify as Black, African American, or African in [Year]"
+"Unsheltered Homeless Individuals - Asian or Asian American, [Year]",Integer,Number of unsheltered homeless individuals who identify as Asian or Asian American in [Year]
+"Unsheltered Homeless Individuals - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of unsheltered homeless individuals who identify as American Indian, Alaska Native, or Indigenous in [Year]"
+"Unsheltered Homeless Individuals - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of unsheltered homeless individuals who identify as Native Hawaiian or Other Pacific Islander in [Year]
+"Unsheltered Homeless Individuals - Multiple Races, [Year]",Integer,Number of unsheltered homeless individuals who identify with multiple races in [Year]
+"Overall Homeless People in Families, [Year]",Integer,Total number of homeless people in families in [Year]
+"Overall Homeless People in Families - Under 18, [Year]",Integer,Number of homeless people in families who are under 18 years old in [Year]
+"Overall Homeless People in Families - Age 18 to 24, [Year]",Integer,Number of homeless people in families who are between 18 and 24 years old in [Year]
+"Overall Homeless People in Families - Over 24, [Year]",Integer,Number of homeless people in families who are over 24 years old in [Year]
+"Overall Homeless People in Families - Female, [Year]",Integer,Number of homeless people in families who are female in [Year]
+"Overall Homeless People in Families - Male, [Year]",Integer,Number of homeless people in families who are male in [Year]
+"Overall Homeless People in Families - Transgender, [Year]",Integer,Number of homeless people in families who identify as transgender in [Year]
+"Overall Homeless People in Families - Gender that is not Singularly Female or Male, [Year]",Integer,Number of homeless people in families who identify with a gender that is not singularly female or male in [Year]
+"Overall Homeless People in Families - Gender Questioning, [Year]",Integer,Number of homeless people in families who identify as gender questioning in [Year]
+"Overall Homeless People in Families - Non-Hispanic/Non-Latino, [Year]",Integer,Number of homeless people in families who identify as non-Hispanic/non-Latino in [Year]
+"Overall Homeless People in Families - Hispanic/Latino, [Year]",Integer,Number of homeless people in families who identify as Hispanic/Latino in [Year]
+"Overall Homeless People in Families - White, [Year]",Integer,Number of homeless people in families who identify as White in [Year]
+"Overall Homeless People in Families - Black, African American, or African, [Year]",Integer,"Number of homeless people in families who identify as Black, African American, or African in [Year]"
+"Overall Homeless People in Families - Asian or Asian American, [Year]",Integer,The total number of homeless people in families who identified as Asian or Asian American in [Year].
+"Overall Homeless People in Families - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The total number of homeless people in families who identified as American Indian, Alaska Native, or Indigenous in [Year]."
+"Overall Homeless People in Families - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The total number of homeless people in families who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Overall Homeless People in Families - Multiple Races, [Year]",Integer,The total number of homeless people in families who identified with multiple races in [Year].
+"Sheltered ES Homeless People in Families, [Year]",Integer,The total number of homeless people in families who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Under 18, [Year]",Integer,The number of homeless people in families who were under 18 years old and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Age 18 to 24, [Year]",Integer,The number of homeless people in families who were between 18 and 24 years old and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Over 24, [Year]",Integer,The number of homeless people in families who were over 24 years old and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Female, [Year]",Integer,The number of homeless people in families who were female and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Male, [Year]",Integer,The number of homeless people in families who were male and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Transgender, [Year]",Integer,The number of homeless people in families who identified as transgender and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless people in families who identified with a gender that is not singularly female or male and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Gender Questioning, [Year]",Integer,The number of homeless people in families who were questioning their gender and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Non-Hispanic/Non-Latino, [Year]",Integer,The number of homeless people in families who identified as non-Hispanic/non-Latino and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Hispanic/Latino, [Year]",Integer,The number of homeless people in families who identified as Hispanic/Latino and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - White, [Year]",Integer,The number of homeless people in families who identified as white and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Black, African American, or African, [Year]",Integer,"The number of homeless people in families who identified as black, African American, or African and sheltered in emergency shelters in [Year]."
+"Sheltered ES Homeless People in Families - Asian or Asian American, [Year]",Integer,The number of homeless people in families who identified as Asian or Asian American and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless people in families who identified as American Indian, Alaska Native, or Indigenous and sheltered in emergency shelters in [Year]."
+"Sheltered ES Homeless People in Families - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless people in families who identified as Native Hawaiian or Other Pacific Islander and sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless People in Families - Multiple Races, [Year]",Integer,The number of sheltered homeless people in families who identified as multiple races in [Year].
+"Sheltered TH Homeless People in Families, [Year]",Integer,The total number of sheltered homeless people in families in [Year].
+"Sheltered TH Homeless People in Families - Under 18, [Year]",Integer,The number of sheltered homeless people in families who were under the age of 18 in [Year].
+"Sheltered TH Homeless People in Families - Age 18 to 24, [Year]",Integer,The number of sheltered homeless people in families who were between the ages of 18 and 24 in [Year].
+"Sheltered TH Homeless People in Families - Over 24, [Year]",Integer,The number of sheltered homeless people in families who were over the age of 24 in [Year].
+"Sheltered TH Homeless People in Families - Female, [Year]",Integer,The number of sheltered homeless people in families who were female in [Year].
+"Sheltered TH Homeless People in Families - Male, [Year]",Integer,The number of sheltered homeless people in families who were male in [Year].
+"Sheltered TH Homeless People in Families - Transgender, [Year]",Integer,The number of sheltered homeless people in families who identified as transgender in [Year].
+"Sheltered TH Homeless People in Families - Gender that is not Singularly Female or Male, [Year]",Integer,The number of sheltered homeless people in families who identified with a gender that is not singularly female or male in [Year].
+"Sheltered TH Homeless People in Families - Gender Questioning, [Year]",Integer,The number of sheltered homeless people in families who were gender questioning in [Year].
+"Sheltered TH Homeless People in Families - Non-Hispanic/Non-Latino, [Year]",Integer,The number of sheltered homeless people in families who identified as non-Hispanic/non-Latino in [Year].
+"Sheltered TH Homeless People in Families - Hispanic/Latino, [Year]",Integer,The number of sheltered homeless people in families who identified as Hispanic/Latino in [Year].
+"Sheltered TH Homeless People in Families - White, [Year]",Integer,The number of sheltered homeless people in families who identified as white in [Year].
+"Sheltered TH Homeless People in Families - Black, African American, or African, [Year]",Integer,"The number of sheltered homeless people in families who identified as black, African American, or African in [Year]."
+"Sheltered TH Homeless People in Families - Asian or Asian American, [Year]",Integer,The number of sheltered homeless people in families who identified as Asian or Asian American in [Year].
+"Sheltered TH Homeless People in Families - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of sheltered homeless people in families who identified as American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered TH Homeless People in Families - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of sheltered homeless people in families who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered TH Homeless People in Families - Multiple Races, [Year]",Integer,The number of sheltered homeless people in families who identified with multiple races in [Year].
+"Sheltered Total Homeless People in Families, [Year]",Integer,The total number of sheltered homeless people in families in [Year].
+"Sheltered Total Homeless People in Families - Under 18, [Year]",Integer,The number of sheltered homeless people in families who were under the age of 18 in [Year].
+"Sheltered Total Homeless People in Families - Age 18 to 24, [Year]",Integer,The number of homeless people in families who were 18 to 24 years old in [Year].
+"Sheltered Total Homeless People in Families - Over 24, [Year]",Integer,The number of homeless people in families who were over 24 years old in [Year].
+"Sheltered Total Homeless People in Families - Female, [Year]",Integer,The number of homeless people in families who were female in [Year].
+"Sheltered Total Homeless People in Families - Male, [Year]",Integer,The number of homeless people in families who were male in [Year].
+"Sheltered Total Homeless People in Families - Transgender, [Year]",Integer,The number of homeless people in families who identified as transgender in [Year].
+"Sheltered Total Homeless People in Families - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless people in families who identified with a gender that is not singularly female or male in [Year].
+"Sheltered Total Homeless People in Families - Gender Questioning, [Year]",Integer,The number of homeless people in families who were gender questioning in [Year].
+"Sheltered Total Homeless People in Families - Non-Hispanic/Non-Latino, [Year]",Integer,The number of homeless people in families who identified as non-Hispanic/non-Latino in [Year].
+"Sheltered Total Homeless People in Families - Hispanic/Latino, [Year]",Integer,The number of homeless people in families who identified as Hispanic/Latino in [Year].
+"Sheltered Total Homeless People in Families - White, [Year]",Integer,The number of homeless people in families who identified as white in [Year].
+"Sheltered Total Homeless People in Families - Black, African American, or African, [Year]",Integer,"The number of homeless people in families who identified as black, African American, or African in [Year]."
+"Sheltered Total Homeless People in Families - Asian or Asian American, [Year]",Integer,The number of homeless people in families who identified as Asian or Asian American in [Year].
+"Sheltered Total Homeless People in Families - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless people in families who identified as American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered Total Homeless People in Families - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless people in families who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered Total Homeless People in Families - Multiple Races, [Year]",Integer,The number of homeless people in families who identified with multiple races in [Year].
+"Unsheltered Homeless People in Families, [Year]",Integer,The number of homeless people in families who were not staying in a shelter in [Year].
+"Unsheltered Homeless People in Families - Under 18, [Year]",Integer,The number of homeless people in families who were under 18 years old and not staying in a shelter in [Year].
+"Unsheltered Homeless People in Families - Age 18 to 24, [Year]",Integer,The number of homeless people in families who were 18 to 24 years old and not staying in a shelter in [Year].
+"Unsheltered Homeless People in Families - Over 24, [Year]",Integer,The number of homeless people in families who were over 24 years old and not staying in a shelter in [Year].
+"Unsheltered Homeless People in Families - Female, [Year]",Integer,The number of homeless people in families who were female and not staying in a shelter in [Year].
+"Unsheltered Homeless People in Families - Male, [Year]",Integer,Number of unsheltered homeless people in families who identify as male in [Year].
+"Unsheltered Homeless People in Families - Transgender, [Year]",Integer,Number of unsheltered homeless people in families who identify as transgender in [Year].
+"Unsheltered Homeless People in Families - Gender that is not Singularly Female or Male, [Year]",Integer,Number of unsheltered homeless people in families who identify with a gender that is not singularly female or male in [Year].
+"Unsheltered Homeless People in Families - Gender Questioning, [Year]",Integer,Number of unsheltered homeless people in families who identify as gender questioning in [Year].
+"Unsheltered Homeless People in Families - Non-Hispanic/Non-Latino, [Year]",Integer,Number of unsheltered homeless people in families who identify as non-Hispanic/non-Latino in [Year].
+"Unsheltered Homeless People in Families - Hispanic/Latino, [Year]",Integer,Number of unsheltered homeless people in families who identify as Hispanic/Latino in [Year].
+"Unsheltered Homeless People in Families - White, [Year]",Integer,Number of unsheltered homeless people in families who identify as white in [Year].
+"Unsheltered Homeless People in Families - Black, African American, or African, [Year]",Integer,"Number of unsheltered homeless people in families who identify as black, African American, or African in [Year]."
+"Unsheltered Homeless People in Families - Asian or Asian American, [Year]",Integer,Number of unsheltered homeless people in families who identify as Asian or Asian American in [Year].
+"Unsheltered Homeless People in Families - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of unsheltered homeless people in families who identify as American Indian, Alaska Native, or Indigenous in [Year]."
+"Unsheltered Homeless People in Families - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of unsheltered homeless people in families who identify as Native Hawaiian or Other Pacific Islander in [Year].
+"Unsheltered Homeless People in Families - Multiple Races, [Year]",Integer,Number of unsheltered homeless people in families who identify with multiple races in [Year].
+"Overall Homeless Family Households, [Year]",Integer,Total number of homeless family households in [Year].
+"Sheltered ES Homeless Family Households, [Year]",Integer,Number of sheltered homeless family households in emergency shelters in [Year].
+"Sheltered TH Homeless Family Households, [Year]",Integer,Number of sheltered homeless family households in transitional housing in [Year].
+"Sheltered Total Homeless Family Households, [Year]",Integer,Total number of sheltered homeless family households in emergency shelters and transitional housing in [Year].
+"Unsheltered Homeless Family Households, [Year]",Integer,Number of unsheltered homeless family households in [Year].
+"Overall Chronically Homeless, [Year]",Integer,Total number of chronically homeless people in family households in [Year].
+"Sheltered ES Chronically Homeless, [Year]",Integer,Number of chronically homeless people in family households in emergency shelters in [Year].
+"Sheltered SH Chronically Homeless, [Year]",Integer,Number of chronically homeless people in family households in transitional housing in [Year].
+"Sheltered Total Chronically Homeless, [Year]",Integer,The total number of people who were chronically homeless and staying in a shelter in [Year].
+"Unsheltered Chronically Homeless, [Year]",Integer,The total number of people who were chronically homeless and not staying in a shelter in [Year].
+"Overall Chronically Homeless Individuals, [Year]",Integer,The total number of people who were chronically homeless in [Year].
+"Sheltered ES Chronically Homeless Individuals, [Year]",Integer,The number of people who were chronically homeless and staying in an emergency shelter in [Year].
+"Sheltered SH Chronically Homeless Individuals, [Year]",Integer,The number of people who were chronically homeless and staying in a supportive housing shelter in [Year].
+"Sheltered Total Chronically Homeless Individuals, [Year]",Integer,The sum of Sheltered ES Chronically Homeless Individuals and Sheltered SH Chronically Homeless Individuals.
+"Unsheltered Chronically Homeless Individuals, [Year]",Integer,The number of people who were chronically homeless and not staying in a shelter in [Year].
+"Overall Chronically Homeless People in Families, [Year]",Integer,The total number of people who were chronically homeless and living in a family in [Year].
+"Sheltered ES Chronically Homeless People in Families, [Year]",Integer,The number of people who were chronically homeless and living in a family and staying in an emergency shelter in [Year].
+"Sheltered Total Chronically Homeless People in Families, [Year]",Integer,The sum of Sheltered ES Chronically Homeless People in Families and Sheltered SH Chronically Homeless People in Families.
+"Unsheltered Chronically Homeless People in Families, [Year]",Integer,The number of people who were chronically homeless and living in a family and not staying in a shelter in [Year].
+"Overall Homeless Veterans, [Year]",Integer,The total number of people who were homeless and veterans in [Year].
+"Overall Homeless Veterans - Female, [Year]",Integer,The number of female veterans who were homeless in [Year].
+"Overall Homeless Veterans - Male, [Year]",Integer,The number of male veterans who were homeless in [Year].
+"Overall Homeless Veterans - Transgender, [Year]",Integer,The number of transgender veterans who were homeless in [Year].
+"Overall Homeless Veterans - Gender that is not Singularly Female or Male, [Year]",Integer,The number of veterans who were not singularly female or male and were homeless in [Year].
+"Overall Homeless Veterans - Gender Questioning, [Year]",Integer,The number of veterans who were gender questioning and were homeless in [Year].
+"Overall Homeless Veterans - Non-Hispanic/Non-Latino, [Year]",Integer,The number of non-Hispanic/non-Latino veterans who were homeless in [Year].
+"Overall Homeless Veterans - Hispanic/Latino, [Year]",Integer,The number of Hispanic/Latino veterans who were homeless in [Year].
+"Overall Homeless Veterans - White, [Year]",Integer,The number of white veterans who were homeless in [Year].
+"Overall Homeless Veterans - Black, African American, or African, [Year]",Integer,"The number of homeless veterans who identified as Black, African American, or African in [Year]."
+"Overall Homeless Veterans - Asian or Asian American, [Year]",Integer,The number of homeless veterans who identified as Asian or Asian American in [Year].
+"Overall Homeless Veterans - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless veterans who identified as American Indian, Alaska Native, or Indigenous in [Year]."
+"Overall Homeless Veterans - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless veterans who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Overall Homeless Veterans - Multiple Races, [Year]",Integer,The number of homeless veterans who identified with multiple races in [Year].
+"Sheltered ES Homeless Veterans, [Year]",Integer,The number of homeless veterans who were sheltered in an emergency shelter in [Year].
+"Sheltered ES Homeless Veterans - Female, [Year]",Integer,The number of sheltered homeless veterans who were female in [Year].
+"Sheltered ES Homeless Veterans - Male, [Year]",Integer,The number of sheltered homeless veterans who were male in [Year].
+"Sheltered ES Homeless Veterans - Transgender, [Year]",Integer,The number of sheltered homeless veterans who identified as transgender in [Year].
+"Sheltered ES Homeless Veterans - Gender that is not Singularly Female or Male, [Year]",Integer,The number of sheltered homeless veterans who identified with a gender that is not singularly female or male in [Year].
+"Sheltered ES Homeless Veterans - Gender Questioning, [Year]",Integer,The number of sheltered homeless veterans who were questioning their gender in [Year].
+"Sheltered ES Homeless Veterans - Non-Hispanic/Non-Latino, [Year]",Integer,The number of sheltered homeless veterans who identified as non-Hispanic/non-Latino in [Year].
+"Sheltered ES Homeless Veterans - Hispanic/Latino, [Year]",Integer,The number of sheltered homeless veterans who identified as Hispanic/Latino in [Year].
+"Sheltered ES Homeless Veterans - White, [Year]",Integer,The number of sheltered homeless veterans who identified as white in [Year].
+"Sheltered ES Homeless Veterans - Black, African American, or African, [Year]",Integer,"The number of sheltered homeless veterans who identified as Black, African American, or African in [Year]."
+"Sheltered ES Homeless Veterans - Asian or Asian American, [Year]",Integer,The number of sheltered homeless veterans who identified as Asian or Asian American in [Year].
+"Sheltered ES Homeless Veterans - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of sheltered homeless veterans who identified as American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered ES Homeless Veterans - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of sheltered homeless veterans who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered ES Homeless Veterans - Multiple Races, [Year]",Integer,The number of sheltered homeless veterans who identified with multiple races in [Year].
+"Sheltered TH Homeless Veterans, [Year]",Integer,The number of homeless veterans who were sheltered in a transitional housing program in [Year].
+"Sheltered TH Homeless Veterans - Female, [Year]",Integer,Number of sheltered transitional housing (TH) homeless veterans who identified as female in [Year]
+"Sheltered TH Homeless Veterans - Male, [Year]",Integer,Number of sheltered TH homeless veterans who identified as male in [Year]
+"Sheltered TH Homeless Veterans - Transgender, [Year]",Integer,Number of sheltered TH homeless veterans who identified as transgender in [Year]
+"Sheltered TH Homeless Veterans - Gender that is not Singularly Female or Male, [Year]",Integer,Number of sheltered TH homeless veterans who identified with a gender that is not singularly female or male in [Year]
+"Sheltered TH Homeless Veterans - Gender Questioning, [Year]",Integer,Number of sheltered TH homeless veterans who were gender questioning in [Year]
+"Sheltered TH Homeless Veterans - Non-Hispanic/Non-Latino, [Year]",Integer,Number of sheltered TH homeless veterans who identified as non-Hispanic/non-Latino in [Year]
+"Sheltered TH Homeless Veterans - Hispanic/Latino, [Year]",Integer,Number of sheltered TH homeless veterans who identified as Hispanic/Latino in [Year]
+"Sheltered TH Homeless Veterans - White, [Year]",Integer,Number of sheltered TH homeless veterans who identified as white in [Year]
+"Sheltered TH Homeless Veterans - Black, African American, or African, [Year]",Integer,"Number of sheltered TH homeless veterans who identified as black, African American, or African in [Year]"
+"Sheltered TH Homeless Veterans - Asian or Asian American, [Year]",Integer,Number of sheltered TH homeless veterans who identified as Asian or Asian American in [Year]
+"Sheltered TH Homeless Veterans - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of sheltered TH homeless veterans who identified as American Indian, Alaska Native, or Indigenous in [Year]"
+"Sheltered TH Homeless Veterans - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of sheltered TH homeless veterans who identified as Native Hawaiian or Other Pacific Islander in [Year]
+"Sheltered TH Homeless Veterans - Multiple Races, [Year]",Integer,Number of sheltered TH homeless veterans who identified with multiple races in [Year]
+"Sheltered SH Homeless Veterans, [Year]",Integer,Number of sheltered supportive housing (SH) homeless veterans in [Year]
+"Sheltered SH Homeless Veterans - Female, [Year]",Integer,Number of sheltered SH homeless veterans who identified as female in [Year]
+"Sheltered SH Homeless Veterans - Male, [Year]",Integer,Number of sheltered SH homeless veterans who identified as male in [Year]
+"Sheltered SH Homeless Veterans - Transgender, [Year]",Integer,Number of sheltered SH homeless veterans who identified as transgender in [Year]
+"Sheltered SH Homeless Veterans - Gender that is not Singularly Female or Male, [Year]",Integer,Number of sheltered SH homeless veterans who identified with a gender that is not singularly female or male in [Year]
+"Sheltered SH Homeless Veterans - Gender Questioning, [Year]",Integer,Number of sheltered SH homeless veterans who were gender questioning in [Year]
+"Sheltered SH Homeless Veterans - Non-Hispanic/Non-Latino, [Year]",Integer,Number of sheltered SH homeless veterans who identified as non-Hispanic/non-Latino in [Year]
+"Sheltered SH Homeless Veterans - Hispanic/Latino, [Year]",Integer,The number of sheltered homeless veterans who are Hispanic/Latino in [Year].
+"Sheltered SH Homeless Veterans - White, [Year]",Integer,The number of sheltered homeless veterans who are White in [Year].
+"Sheltered SH Homeless Veterans - Black, African American, or African, [Year]",Integer,"The number of sheltered homeless veterans who are Black, African American, or African in [Year]."
+"Sheltered SH Homeless Veterans - Asian or Asian American, [Year]",Integer,The number of sheltered homeless veterans who are Asian or Asian American in [Year].
+"Sheltered SH Homeless Veterans - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of sheltered homeless veterans who are American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered SH Homeless Veterans - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of sheltered homeless veterans who are Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered SH Homeless Veterans - Multiple Races, [Year]",Integer,The number of sheltered homeless veterans who identify with multiple races in [Year].
+"Sheltered Total Homeless Veterans, [Year]",Integer,The total number of sheltered homeless veterans in [Year].
+"Sheltered Total Homeless Veterans - Female, [Year]",Integer,The number of sheltered homeless veterans who are female in [Year].
+"Sheltered Total Homeless Veterans - Male, [Year]",Integer,The number of sheltered homeless veterans who are male in [Year].
+"Sheltered Total Homeless Veterans - Transgender, [Year]",Integer,The number of sheltered homeless veterans who identify as transgender in [Year].
+"Sheltered Total Homeless Veterans - Gender that is not Singularly Female or Male, [Year]",Integer,The number of sheltered homeless veterans who do not identify as solely female or male in [Year].
+"Sheltered Total Homeless Veterans - Gender Questioning, [Year]",Integer,The number of sheltered homeless veterans who are gender questioning in [Year].
+"Sheltered Total Homeless Veterans - Non-Hispanic/Non-Latino, [Year]",Integer,The number of sheltered homeless veterans who are not Hispanic/Latino in [Year].
+"Sheltered Total Homeless Veterans - Hispanic/Latino, [Year]",Integer,The number of sheltered homeless veterans who are Hispanic/Latino in [Year].
+"Sheltered Total Homeless Veterans - White, [Year]",Integer,The number of sheltered homeless veterans who are White in [Year].
+"Sheltered Total Homeless Veterans - Black, African American, or African, [Year]",Integer,"The number of sheltered homeless veterans who are Black, African American, or African in [Year]."
+"Sheltered Total Homeless Veterans - Asian or Asian American, [Year]",Integer,The number of sheltered homeless veterans who are Asian or Asian American in [Year].
+"Sheltered Total Homeless Veterans - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of sheltered homeless veterans who are American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered Total Homeless Veterans - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of sheltered homeless veterans who are Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered Total Homeless Veterans - Multiple Races, [Year]",Integer,The total number of sheltered homeless veterans who identify as multiple races in [Year].
+"Unsheltered Homeless Veterans, [Year]",Integer,The total number of unsheltered homeless veterans in [Year].
+"Unsheltered Homeless Veterans - Female, [Year]",Integer,The number of unsheltered homeless veterans who are female in [Year].
+"Unsheltered Homeless Veterans - Male, [Year]",Integer,The number of unsheltered homeless veterans who are male in [Year].
+"Unsheltered Homeless Veterans - Transgender, [Year]",Integer,The number of unsheltered homeless veterans who identify as transgender in [Year].
+"Unsheltered Homeless Veterans - Gender that is not Singularly Female or Male, [Year]",Integer,The number of unsheltered homeless veterans who identify with a gender that is not singularly female or male in [Year].
+"Unsheltered Homeless Veterans - Gender Questioning, [Year]",Integer,The number of unsheltered homeless veterans who are gender questioning in [Year].
+"Unsheltered Homeless Veterans - Non-Hispanic/Non-Latino, [Year]",Integer,The number of unsheltered homeless veterans who are non-Hispanic/non-Latino in [Year].
+"Unsheltered Homeless Veterans - Hispanic/Latino, [Year]",Integer,The number of unsheltered homeless veterans who are Hispanic/Latino in [Year].
+"Unsheltered Homeless Veterans - White, [Year]",Integer,The number of unsheltered homeless veterans who are white in [Year].
+"Unsheltered Homeless Veterans - Black, African American, or African, [Year]",Integer,"The number of unsheltered homeless veterans who are black, African American, or African in [Year]."
+"Unsheltered Homeless Veterans - Asian or Asian American, [Year]",Integer,The number of unsheltered homeless veterans who are Asian or Asian American in [Year].
+"Unsheltered Homeless Veterans - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of unsheltered homeless veterans who are American Indian, Alaska Native, or Indigenous in [Year]."
+"Unsheltered Homeless Veterans - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of unsheltered homeless veterans who are Native Hawaiian or Other Pacific Islander in [Year].
+"Unsheltered Homeless Veterans - Multiple Races, [Year]",Integer,The number of unsheltered homeless veterans who identify as multiple races in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25), [Year]",Integer,The total number of homeless unaccompanied youth (under 25) in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Female, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who are female in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Male, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who are male in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Transgender, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identify as transgender in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identify with a gender that is not singularly female or male in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Gender Questioning, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified as gender questioning in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Non-Hispanic/Non-Latino, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified as non-Hispanic/non-Latino in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Hispanic/Latino, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified as Hispanic/Latino in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - White, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified as white in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Black, African American, or African, [Year]",Integer,"The number of homeless unaccompanied youth (under 25) who identified as black, African American, or African in [Year]."
+"Overall Homeless Unaccompanied Youth (Under 25) - Asian or Asian American, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified as Asian or Asian American in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless unaccompanied youth (under 25) who identified as American Indian, Alaska Native, or Indigenous in [Year]."
+"Overall Homeless Unaccompanied Youth (Under 25) - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified as Native Hawaiian or Other Pacific Islander in [Year].
+"Overall Homeless Unaccompanied Youth (Under 25) - Multiple Races, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified with multiple races in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25), [Year]",Integer,The total number of homeless unaccompanied youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Female, [Year]",Integer,The number of female homeless unaccompanied youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Male, [Year]",Integer,The number of male homeless unaccompanied youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Transgender, [Year]",Integer,The number of transgender homeless unaccompanied youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified with a gender that is not singularly female or male who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Gender Questioning, [Year]",Integer,The number of homeless unaccompanied youth (under 25) who identified as gender questioning who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Non-Hispanic/Non-Latino, [Year]",Integer,The number of non-Hispanic/non-Latino homeless unaccompanied youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Hispanic/Latino, [Year]",Integer,The number of Hispanic/Latino homeless unaccompanied youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - White, [Year]",Integer,The number of white homeless unaccompanied youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of homeless unaccompanied youth who identify as American Indian, Alaska Native, or Indigenous in emergency shelters in [Year]"
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of homeless unaccompanied youth who identify as Native Hawaiian or Other Pacific Islander in emergency shelters in [Year]
+"Sheltered ES Homeless Unaccompanied Youth (Under 25) - Multiple Races, [Year]",Integer,Number of homeless unaccompanied youth who identify with multiple races in emergency shelters in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25), [Year]",Integer,Total number of homeless unaccompanied youth in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Female, [Year]",Integer,Number of homeless unaccompanied youth who identify as female in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Male, [Year]",Integer,Number of homeless unaccompanied youth who identify as male in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Transgender, [Year]",Integer,Number of homeless unaccompanied youth who identify as transgender in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Gender that is not Singularly Female or Male, [Year]",Integer,Number of homeless unaccompanied youth who identify with a gender that is not singularly female or male in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Gender Questioning, [Year]",Integer,Number of homeless unaccompanied youth who are gender questioning in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Non-Hispanic/Non-Latino, [Year]",Integer,Number of homeless unaccompanied youth who identify as non-Hispanic/non-Latino in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Hispanic/Latino, [Year]",Integer,Number of homeless unaccompanied youth who identify as Hispanic/Latino in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - White, [Year]",Integer,Number of homeless unaccompanied youth who identify as white in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Black, African American, or African, [Year]",Integer,"Number of homeless unaccompanied youth who identify as black, African American, or African in transitional housing in [Year]"
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Asian or Asian American, [Year]",Integer,Number of homeless unaccompanied youth who identify as Asian or Asian American in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of homeless unaccompanied youth who identify as American Indian, Alaska Native, or Indigenous in transitional housing in [Year]"
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of homeless unaccompanied youth who identify as Native Hawaiian or Other Pacific Islander in transitional housing in [Year]
+"Sheltered TH Homeless Unaccompanied Youth (Under 25) - Multiple Races, [Year]",Integer,Number of homeless unaccompanied youth who identify with multiple races in transitional housing in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25), [Year]",Integer,Total number of homeless unaccompanied youth in supportive housing in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Female, [Year]",Integer,Number of homeless unaccompanied youth who identify as female in supportive housing in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Male, [Year]",Integer,Number of homeless unaccompanied youth who identify as male in supportive housing in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Transgender, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who identify as transgender in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Gender that is not Singularly Female or Male, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who identify with a gender that is not singularly female or male in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Gender Questioning, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are questioning their gender identity in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Non-Hispanic/Non-Latino, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are non-Hispanic/non-Latino in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Hispanic/Latino, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are Hispanic/Latino in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - White, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are white in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Black, African American, or African, [Year]",Integer,"Number of sheltered unaccompanied youth (under 25) who are black, African American, or African in [Year]"
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Asian or Asian American, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are Asian or Asian American in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"Number of sheltered unaccompanied youth (under 25) who are American Indian, Alaska Native, or Indigenous in [Year]"
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Native Hawaiian or Other Pacific Islander, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are Native Hawaiian or Other Pacific Islander in [Year]
+"Sheltered SH Homeless Unaccompanied Youth (Under 25) - Multiple Races, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who identify with multiple races in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25), [Year]",Integer,Total number of sheltered unaccompanied youth (under 25) in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Female, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are female in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Male, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are male in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Transgender, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who identify as transgender in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Gender that is not Singularly Female or Male, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who identify with a gender that is not singularly female or male in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Gender Questioning, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are questioning their gender identity in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Non-Hispanic/Non-Latino, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are non-Hispanic/non-Latino in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Hispanic/Latino, [Year]",Integer,Number of sheltered unaccompanied youth (under 25) who are Hispanic/Latino in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - Black, African American, or African",Integer,"The number of sheltered homeless unaccompanied youth under 25 who are Black, African American, or African in [Year]"
+Sheltered Total Homeless Unaccompanied Youth (Under 25) - Asian or Asian American,Integer,The number of sheltered homeless unaccompanied youth under 25 who are Asian or Asian American in [Year]
+"Sheltered Total Homeless Unaccompanied Youth (Under 25) - American Indian, Alaska Native, or Indigenous",Integer,"The number of sheltered homeless unaccompanied youth under 25 who are American Indian, Alaska Native, or Indigenous in [Year]"
+Sheltered Total Homeless Unaccompanied Youth (Under 25) - Native Hawaiian or Other Pacific Islander,Integer,The number of sheltered homeless unaccompanied youth under 25 who are Native Hawaiian or Other Pacific Islander in [Year]
+Sheltered Total Homeless Unaccompanied Youth (Under 25) - Multiple Races,Integer,The number of sheltered homeless unaccompanied youth under 25 who identify with multiple races in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25),Integer,The total number of unsheltered homeless unaccompanied youth under 25 in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Female,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are female in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Male,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are male in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Transgender,Integer,The number of unsheltered homeless unaccompanied youth under 25 who identify as transgender in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Gender that is not Singularly Female or Male,Integer,The number of unsheltered homeless unaccompanied youth under 25 who identify with a gender that is not singularly female or male in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Gender Questioning,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are gender questioning in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Non-Hispanic/Non-Latino,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are non-Hispanic/non-Latino in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Hispanic/Latino,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are Hispanic/Latino in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - White,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are white in [Year]
+"Unsheltered Homeless Unaccompanied Youth (Under 25) - Black, African American, or African",Integer,"The number of unsheltered homeless unaccompanied youth under 25 who are Black, African American, or African in [Year]"
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Asian or Asian American,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are Asian or Asian American in [Year]
+"Unsheltered Homeless Unaccompanied Youth (Under 25) - American Indian, Alaska Native, or Indigenous",Integer,"The number of unsheltered homeless unaccompanied youth under 25 who are American Indian, Alaska Native, or Indigenous in [Year]"
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Native Hawaiian or Other Pacific Islander,Integer,The number of unsheltered homeless unaccompanied youth under 25 who are Native Hawaiian or Other Pacific Islander in [Year]
+Unsheltered Homeless Unaccompanied Youth (Under 25) - Multiple Races,Integer,The number of unsheltered homeless unaccompanied youth under 25 who identify with multiple races in [Year]
+"Overall Homeless Unaccompanied Youth Under 18, [Year]",Integer,The total number of homeless unaccompanied youth under 18 in [Year]
+"Sheltered ES Homeless Unaccompanied Youth Under 18, [Year]",Integer,Number of homeless unaccompanied youth under 18 who stayed in emergency shelters in [Year]
+"Sheltered TH Homeless Unaccompanied Youth Under 18, [Year]",Integer,Number of homeless unaccompanied youth under 18 who stayed in transitional housing shelters in [Year]
+"Sheltered SH Homeless Unaccompanied Youth Under 18, [Year]",Integer,Number of homeless unaccompanied youth under 18 who stayed in shared housing shelters in [Year]
+"Sheltered Total Homeless Unaccompanied Youth Under 18, [Year]",Integer,Total number of homeless unaccompanied youth under 18 who stayed in shelters in [Year]
+"Unsheltered Homeless Unaccompanied Youth Under 18, [Year]",Integer,Number of homeless unaccompanied youth under 18 who did not stay in shelters in [Year]
+"Overall Homeless Unaccompanied Youth Age 18-24, [Year]",Integer,Total number of homeless unaccompanied youth aged 18-24 in [Year]
+"Sheltered ES Homeless Unaccompanied Youth Age 18-24, [Year]",Integer,Number of homeless unaccompanied youth aged 18-24 who stayed in emergency shelters in [Year]
+"Sheltered TH Homeless Unaccompanied Youth Age 18-24, [Year]",Integer,Number of homeless unaccompanied youth aged 18-24 who stayed in transitional housing shelters in [Year]
+"Sheltered SH Homeless Unaccompanied Youth Age 18-24, [Year]",Integer,Number of homeless unaccompanied youth aged 18-24 who stayed in shared housing shelters in [Year]
+"Sheltered Total Homeless Unaccompanied Youth Age 18-24, [Year]",Integer,Total number of homeless unaccompanied youth aged 18-24 who stayed in shelters in [Year]
+"Unsheltered Homeless Unaccompanied Youth Age 18-24, [Year]",Integer,Number of homeless unaccompanied youth aged 18-24 who did not stay in shelters in [Year]
+"Overall Homeless Parenting Youth (Under 25), [Year]",Integer,Total number of homeless parenting youth under 25 in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Female, [Year]",Integer,Number of homeless parenting youth under 25 who are female in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Male, [Year]",Integer,Number of homeless parenting youth under 25 who are male in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Transgender, [Year]",Integer,Number of homeless parenting youth under 25 who identify as transgender in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Gender that is not Singularly Female or Male, [Year]",Integer,Number of homeless parenting youth under 25 who identify with a gender that is not singularly female or male in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Gender Questioning, [Year]",Integer,Number of homeless parenting youth under 25 who are gender questioning in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Non-Hispanic/Non-Latino, [Year]",Integer,Number of homeless parenting youth under 25 who are non-Hispanic/non-Latino in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Hispanic/Latino, [Year]",Integer,Number of homeless parenting youth under 25 who are Hispanic/Latino in [Year]
+"Overall Homeless Parenting Youth (Under 25) - White, [Year]",Integer,Number of homeless parenting youth under 25 who are white in [Year]
+"Overall Homeless Parenting Youth (Under 25) - Black, African American, or African",Integer,"The number of homeless parenting youth (under 25) who are Black, African American, or African in [Year]."
+Overall Homeless Parenting Youth (Under 25) - Asian or Asian American,Integer,The number of homeless parenting youth (under 25) who are Asian or Asian American in [Year].
+"Overall Homeless Parenting Youth (Under 25) - American Indian, Alaska Native, or Indigenous",Integer,"The number of homeless parenting youth (under 25) who are American Indian, Alaska Native, or Indigenous in [Year]."
+Overall Homeless Parenting Youth (Under 25) - Native Hawaiian or Other Pacific Islander,Integer,The number of homeless parenting youth (under 25) who are Native Hawaiian or Other Pacific Islander in [Year].
+Overall Homeless Parenting Youth (Under 25) - Multiple Races,Integer,The number of homeless parenting youth (under 25) who identify with multiple races in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25),Integer,The total number of homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Female,Integer,The number of female homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Male,Integer,The number of male homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Transgender,Integer,The number of transgender homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Gender that is not Singularly Female or Male,Integer,The number of homeless parenting youth (under 25) who identify with a gender that is not singularly female or male who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Gender Questioning,Integer,The number of homeless parenting youth (under 25) who are gender questioning who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Non-Hispanic/Non-Latino,Integer,The number of non-Hispanic/non-Latino homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Hispanic/Latino,Integer,The number of Hispanic/Latino homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - White,Integer,The number of white homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Parenting Youth (Under 25) - Black, African American, or African",Integer,"The number of Black, African American, or African homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year]."
+Sheltered ES Homeless Parenting Youth (Under 25) - Asian or Asian American,Integer,The number of Asian or Asian American homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+"Sheltered ES Homeless Parenting Youth (Under 25) - American Indian, Alaska Native, or Indigenous",Integer,"The number of American Indian, Alaska Native, or Indigenous homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year]."
+Sheltered ES Homeless Parenting Youth (Under 25) - Native Hawaiian or Other Pacific Islander,Integer,The number of Native Hawaiian or Other Pacific Islander homeless parenting youth (under 25) who were sheltered in emergency shelters in [Year].
+Sheltered ES Homeless Parenting Youth (Under 25) - Multiple Races,Integer,The number of homeless parenting youth (under 25) who identify with multiple races who were sheltered in emergency shelters in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25),Integer,The total number of homeless parenting youth (under 25) who were sheltered in transitional housing in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Female,Integer,The number of female homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Male,Integer,The number of male homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Transgender,Integer,The number of transgender homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Gender that is not Singularly Female or Male,Integer,The number of homeless parenting youth under 25 who do not identify as solely female or male who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Gender Questioning,Integer,The number of homeless parenting youth under 25 who are questioning their gender identity who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Non-Hispanic/Non-Latino,Integer,The number of non-Hispanic/non-Latino homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Hispanic/Latino,Integer,The number of Hispanic/Latino homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - White,Integer,The number of white homeless parenting youth under 25 who were sheltered in [Year].
+"Sheltered TH Homeless Parenting Youth (Under 25) - Black, African American, or African",Integer,"The number of black, African American, or African homeless parenting youth under 25 who were sheltered in [Year]."
+Sheltered TH Homeless Parenting Youth (Under 25) - Asian or Asian American,Integer,The number of Asian or Asian American homeless parenting youth under 25 who were sheltered in [Year].
+"Sheltered TH Homeless Parenting Youth (Under 25) - American Indian, Alaska Native, or Indigenous",Integer,"The number of American Indian, Alaska Native, or Indigenous homeless parenting youth under 25 who were sheltered in [Year]."
+Sheltered TH Homeless Parenting Youth (Under 25) - Native Hawaiian or Other Pacific Islander,Integer,The number of Native Hawaiian or Other Pacific Islander homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered TH Homeless Parenting Youth (Under 25) - Multiple Races,Integer,The number of homeless parenting youth under 25 who identify with multiple races who were sheltered in [Year].
+Sheltered Total Homeless Parenting Youth (Under 25),Integer,The total number of homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered Total Homeless Parenting Youth (Under 25) - Female,Integer,The number of female homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered Total Homeless Parenting Youth (Under 25) - Male,Integer,The number of male homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered Total Homeless Parenting Youth (Under 25) - Transgender,Integer,The number of transgender homeless parenting youth under 25 who were sheltered in [Year].
+Sheltered Total Homeless Parenting Youth (Under 25) - Gender that is not Singularly Female or Male,Integer,The number of homeless parenting youth under 25 who do not identify as solely female or male who were sheltered in [Year].
+Sheltered Total Homeless Parenting Youth (Under 25) - Gender Questioning,Integer,The number of homeless parenting youth under 25 who are questioning their gender identity who were sheltered in [Year].
+Sheltered Total Homeless Parenting Youth (Under 25) - Non-Hispanic/Non-Latino,Integer,The number of non-Hispanic/non-Latino homeless parenting youth under 25 who were sheltered in [Year].
+"Sheltered Total Homeless Parenting Youth (Under 25) - Hispanic/Latino, [Year]",Integer,The number of homeless parenting youth under 25 who are Hispanic/Latino in [Year].
+"Sheltered Total Homeless Parenting Youth (Under 25) - White, [Year]",Integer,The number of homeless parenting youth under 25 who are White in [Year].
+"Sheltered Total Homeless Parenting Youth (Under 25) - Black, African American, or African, [Year]",Integer,"The number of homeless parenting youth under 25 who are Black, African American, or African in [Year]."
+"Sheltered Total Homeless Parenting Youth (Under 25) - Asian or Asian American, [Year]",Integer,The number of homeless parenting youth under 25 who are Asian or Asian American in [Year].
+"Sheltered Total Homeless Parenting Youth (Under 25) - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless parenting youth under 25 who are American Indian, Alaska Native, or Indigenous in [Year]."
+"Sheltered Total Homeless Parenting Youth (Under 25) - Native Hawaiian or Other Pacific Islander, [Year]",Integer,The number of homeless parenting youth under 25 who are Native Hawaiian or Other Pacific Islander in [Year].
+"Sheltered Total Homeless Parenting Youth (Under 25) - Multiple Races, [Year]",Integer,The number of homeless parenting youth under 25 who identify with multiple races in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25), [Year]",Integer,The total number of homeless parenting youth under 25 who are unsheltered in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Female, [Year]",Integer,The number of homeless parenting youth under 25 who are female in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Male, [Year]",Integer,The number of homeless parenting youth under 25 who are male in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Transgender, [Year]",Integer,The number of homeless parenting youth under 25 who identify as transgender in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Gender that is not Singularly Female or Male, [Year]",Integer,The number of homeless parenting youth under 25 who identify with a gender that is not singularly female or male in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Gender Questioning, [Year]",Integer,The number of homeless parenting youth under 25 who are questioning their gender identity in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Non-Hispanic/Non-Latino, [Year]",Integer,The number of homeless parenting youth under 25 who are not Hispanic/Latino in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Hispanic/Latino, [Year]",Integer,The number of homeless parenting youth under 25 who are Hispanic/Latino in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - White, [Year]",Integer,The number of homeless parenting youth under 25 who are White in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - Black, African American, or African, [Year]",Integer,"The number of homeless parenting youth under 25 who are Black, African American, or African in [Year]."
+"Unsheltered Homeless Parenting Youth (Under 25) - Asian or Asian American, [Year]",Integer,The number of homeless parenting youth under 25 who are Asian or Asian American in [Year].
+"Unsheltered Homeless Parenting Youth (Under 25) - American Indian, Alaska Native, or Indigenous, [Year]",Integer,"The number of homeless parenting youth under 25 who are American Indian, Alaska Native, or Indigenous in [Year]."
+"Unsheltered Homeless Parenting Youth (Under 25) - Multiple Races, [Year]",Integer,The number of unsheltered homeless parenting youth (under 25) who are of multiple races in [Year].
+"Overall Homeless Parenting Youth Under 18, [Year]",Integer,The total number of homeless parenting youth under 18 in [Year].
+"Sheltered ES Homeless Parenting Youth Under 18, [Year]",Integer,The number of homeless parenting youth under 18 who are sheltered in emergency shelters in [Year].
+"Sheltered TH Homeless Parenting Youth Under 18, [Year]",Integer,The number of homeless parenting youth under 18 who are sheltered in transitional housing in [Year].
+"Sheltered Total Homeless Parenting Youth Under 18, [Year]",Integer,The total number of homeless parenting youth under 18 who are sheltered in emergency shelters or transitional housing in [Year].
+"Unsheltered Homeless Parenting Youth Under 18, [Year]",Integer,The number of homeless parenting youth under 18 who are not sheltered in [Year].
+"Overall Homeless Parenting Youth Age 18-24, [Year]",Integer,The total number of homeless parenting youth aged 18-24 in [Year].
+"Sheltered ES Homeless Parenting Youth Age 18-24, [Year]",Integer,The number of homeless parenting youth aged 18-24 who are sheltered in emergency shelters in [Year].
+"Sheltered TH Homeless Parenting Youth Age 18-24, [Year]",Integer,The number of homeless parenting youth aged 18-24 who are sheltered in transitional housing in [Year].
+"Sheltered Total Homeless Parenting Youth Age 18-24, [Year]",Integer,The total number of homeless parenting youth aged 18-24 who are sheltered in emergency shelters or transitional housing in [Year].
+"Unsheltered Homeless Parenting Youth Age 18-24, [Year]",Integer,The number of homeless parenting youth aged 18-24 who are not sheltered in [Year].
+"Overall Homeless Children of Parenting Youth, [Year]",Integer,The total number of homeless children of parenting youth in [Year].
+"Sheltered ES Homeless Children of Parenting Youth, [Year]",Integer,The number of homeless children of parenting youth who are sheltered in emergency shelters in [Year].
+"Sheltered TH Homeless Children of Parenting Youth, [Year]",Integer,The number of homeless children of parenting youth who are sheltered in transitional housing in [Year].
+"Sheltered Total Homeless Children of Parenting Youth, [Year]",Integer,The total number of homeless children of parenting youth who are sheltered in emergency shelters or transitional housing in [Year].
+"Unsheltered Homeless Children of Parenting Youth, [Year]",Integer,The number of homeless children of parenting youth who are not sheltered in [Year].
+populations,String,"The type of population being counted. Can be ""Sheltered and full unsheltered"" or ""Sheltered-Only Count""."

@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: point_in_time
+    project: analytics-ahs-owned-thd
+    dataset: STG5
+    tables:
+      - name: seed__2007_pit_counts_by_coc
+      - name: seed__2008_pit_counts_by_coc
+      - name: seed__2009_pit_counts_by_coc
+      - name: seed__2010_pit_counts_by_coc
+      - name: seed__2011_pit_counts_by_coc
+      - name: seed__2012_pit_counts_by_coc
+      - name: seed__2013_pit_counts_by_coc
+      - name: seed__2014_pit_counts_by_coc
+      - name: seed__2015_pit_counts_by_coc
+      - name: seed__2016_pit_counts_by_coc
+      - name: seed__2017_pit_counts_by_coc
+      - name: seed__2018_pit_counts_by_coc
+      - name: seed__2019_pit_counts_by_coc
+      - name: seed__2020_pit_counts_by_coc
+      - name: seed__2021_pit_counts_by_coc
+      - name: seed__2022_pit_counts_by_coc

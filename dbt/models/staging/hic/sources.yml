@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+
+  - name: housing_inventory_count
+    project: analytics-ahs-owned-thd
+    dataset: STG5
+    tables:
+      - name: seed__2007_hic_counts_by_coc
+      - name: seed__2008_hic_counts_by_coc
+      - name: seed__2009_hic_counts_by_coc
+      - name: seed__2010_hic_counts_by_coc
+      - name: seed__2011_hic_counts_by_coc
+      - name: seed__2012_hic_counts_by_coc
+      - name: seed__2013_hic_counts_by_coc
+      - name: seed__2014_hic_counts_by_coc
+      - name: seed__2015_hic_counts_by_coc
+      - name: seed__2016_hic_counts_by_coc
+      - name: seed__2017_hic_counts_by_coc
+      - name: seed__2018_hic_counts_by_coc
+      - name: seed__2019_hic_counts_by_coc
+      - name: seed__2020_hic_counts_by_coc
+      - name: seed__2021_hic_counts_by_coc
+      - name: seed__2022_hic_counts_by_coc

@@ -1,0 +1,78 @@
+Column Name,Data Type,Description
+CoC Number,String,Continuum of Care (CoC) number
+"Total Year-Round Beds (ES, TH, SH)",Integer,"Total number of year-round beds in emergency shelters, transitional housing, and safe havens"
+"Total Non-DV Year-Round Beds (ES, TH, SH)",Integer,"Total number of year-round beds in emergency shelters, transitional housing, and safe havens that are not designated for domestic violence (DV) victims"
+"Total HMIS Year-Round Beds (ES, TH, SH)",Integer,"Total number of year-round beds in emergency shelters, transitional housing, and safe havens that are included in the HMIS database"
+"HMIS Participation Rate for Year-Round Beds (ES, TH, SH)",Float,"Percentage of year-round beds in emergency shelters, transitional housing, and safe havens that are included in the HMIS database"
+Total Year-Round Beds (ES),Integer,Total number of year-round beds in emergency shelters
+Total Year-Round Beds (TH),Integer,Total number of year-round beds in transitional housing
+Total Year-Round Beds (SH),Integer,Total number of year-round beds in safe havens
+"Total Units for Households with Children (ES, TH, SH)",Integer,"Total number of units in emergency shelters, transitional housing, and safe havens that are designed for households with children"
+"Total Beds for Households with Children (ES, TH, SH)",Integer,"Total number of beds in emergency shelters, transitional housing, and safe havens that are designed for households with children"
+"Total Beds for Households without Children (ES, TH, SH)",Integer,"Total number of beds in emergency shelters, transitional housing, and safe havens that are designed for households without children"
+"Total Beds for Households with only Children (ES, TH, SH)",Integer,"Total number of beds in emergency shelters, transitional housing, and safe havens that are designed for households with only children"
+"Dedicated Veteran Beds (ES, TH, SH)",Integer,"Number of beds in emergency shelters, transitional housing, and safe havens that are dedicated to veterans"
+"Dedicated Youth Beds (ES, TH, SH)",Integer,"Number of beds in emergency shelters, transitional housing, and safe havens that are dedicated to youth"
+Total Year-Round Beds (ES),Integer,Total number of year-round beds in emergency shelters (ES)
+Total Non-DV Year-Round Beds (ES),Integer,Total number of year-round beds in emergency shelters (ES) that are not for domestic violence victims (DV)
+Total HMIS Year-Round Beds (ES),Integer,Total number of year-round beds in emergency shelters (ES) that are included in the Homeless Management Information System (HMIS)
+HMIS Participation Rate for Year-Round Beds (ES),Float,Percentage of year-round beds in emergency shelters (ES) that are included in the Homeless Management Information System (HMIS)
+Total Seasonal Beds (ES),Integer,Total number of seasonal beds in emergency shelters (ES)
+Total Overflow Beds (ES),Integer,Total number of overflow beds in emergency shelters (ES)
+Total Units for Households with Children (ES),Integer,Total number of units in emergency shelters (ES) that are for households with children
+Total Beds for Households with Children (ES),Integer,Total number of beds in emergency shelters (ES) that are for households with children
+Total Beds for Households without Children (ES),Integer,Total number of beds in emergency shelters (ES) that are for households without children
+Total Beds for Households with only Children (ES),Integer,Total number of beds in emergency shelters (ES) that are for households with only children
+Dedicated Veteran Beds (ES),Integer,Total number of beds in emergency shelters (ES) that are dedicated to veterans
+Dedicated Youth Beds (ES),Integer,Total number of beds in emergency shelters (ES) that are dedicated to youth
+Total Year-Round Beds (TH),Integer,Total number of year-round beds in transitional housing (TH)
+Total Non-DV Year-Round Beds (TH),Integer,Total number of year-round beds in transitional housing (TH) that are not for domestic violence victims (DV)
+Total HMIS Year-Round Beds (TH),Integer,Total number of year-round beds in transitional housing (TH) that are included in the Homeless Management Information System (HMIS)
+HMIS Participation Rate for Year-Round Beds (TH),Float,Percentage of year-round beds in transitional housing (TH) that are included in the Homeless Management Information System (HMIS)
+Total Units for Households with Children (TH),Integer,Total number of units in transitional housing (TH) that are for households with children
+Total Beds for Households with Children (TH),Integer,Total number of beds in transitional housing (TH) that are for households with children
+Total Beds for Households without Children (TH),Integer,Total number of beds in transitional housing (TH) that are for households without children
+Total Beds for Households with only Children (TH),Integer,Total number of beds in transitional housing (TH) that are for households with only children
+Dedicated Veteran Beds (TH),Integer,Total number of beds in transitional housing (TH) that are dedicated to veterans
+Dedicated Youth Beds (TH),Integer,Total number of beds in transitional housing (TH) that are dedicated to youth
+Total Year-Round Beds (SH),Integer,The total number of year-round beds in supportive housing (SH)
+Total Non-DV Year-Round Beds (SH),Integer,The total number of non-domestic violence (DV) year-round beds in SH
+Total HMIS Year-Round Beds (SH),Integer,The total number of year-round beds in SH that are included in the Homeless Management Information System (HMIS)
+HMIS Participation Rate for Year-Round Beds (SH),Float,The percentage of year-round beds in SH that are included in HMIS
+Total Units for Households with Children (SH),Integer,The total number of units in SH that are designated for households with children
+Total Beds for Households with Children (SH),Integer,The total number of beds in SH that are designated for households with children
+Total Beds for Households without Children (SH),Integer,The total number of beds in SH that are designated for households without children
+Total Beds for Households with only Children (SH),Integer,The total number of beds in SH that are designated for households with only children
+Dedicated Veteran Beds (SH),Integer,The number of beds in SH that are dedicated to veterans
+Dedicated Youth Beds (SH),Integer,The number of beds in SH that are dedicated to youth
+Total Year-Round Beds (RRH),Integer,The total number of year-round beds in rapid re-housing (RRH)
+Total Non-DV Year-Round Beds (RRH),Integer,The total number of non-DV year-round beds in RRH
+Total HMIS Year-Round Beds (RRH),Integer,The total number of year-round beds in RRH that are included in HMIS
+HMIS Participation Rate for Year-Round Beds (RRH),Float,The percentage of year-round beds in RRH that are included in HMIS
+Total Units for Households with Children (RRH),Integer,The total number of units in RRH that are designated for households with children
+Total Beds for Households with Children (RRH),Integer,The total number of beds in RRH that are designated for households with children
+Total Beds for Households without Children (RRH),Integer,The total number of beds in RRH that are designated for households without children
+Total Beds for Households with only Children (RRH),Integer,The total number of beds in RRH that are designated for households with only children
+Dedicated Veteran Beds (RRH),Integer,The number of beds in RRH that are dedicated to veterans
+Dedicated Youth Beds (RRH),Integer,The number of beds in RRH that are dedicated to youth
+Total Year-Round Beds (PSH),Integer,The total number of year-round beds in permanent supportive housing (PSH)
+Total Non-DV Year-Round Beds (PSH),Integer,The total number of non-DV year-round beds in PSH
+Total HMIS Year-Round Beds (PSH),Integer,The total number of year-round beds in PSH that are included in HMIS
+HMIS Participation Rate for Year-Round Beds (PSH),Float,The percentage of year-round beds in PSH that are included in HMIS
+Total Units for Households with Children (PSH),Integer,The total number of units in PSH that are designated for households with children
+Total Beds for Households with Children (PSH),Integer,The total number of beds in PSH that are designated for households with children
+Total Beds for Households without Children (PSH),Integer,The total number of beds in PSH that are designated for households without children
+Total Beds for Households with only Children (PSH),Integer,The total number of beds in PSH that are designated for households with only children
+Dedicated Veteran Beds (PSH),Integer,The number of beds in PSH that are dedicated to veterans
+Dedicated Youth Beds (PSH),Integer,The number of beds in PSH that are dedicated to youth
+Dedicated Chronically Homeless Beds (PSH),Integer,The number of beds in PSH that are dedicated to chronically homeless individuals
+Total Year-Round Beds (OPH),Integer,The total number of year-round beds in the program.
+Total Non-DV Year-Round Beds (OPH),Integer,The total number of year-round beds in the program that are not for victims of domestic violence.
+Total HMIS Year-Round Beds (OPH),Integer,The total number of year-round beds in the program that are in the HMIS database.
+HMIS Participation Rate for Year-Round Beds (OPH),Float,The percentage of year-round beds in the program that are in the HMIS database.
+Total Units for Households with Children (OPH),Integer,The total number of units in the program that are for households with children.
+Total Beds for Households with Children (OPH),Integer,The total number of beds in the program that are for households with children.
+Total Beds for Households without Children (OPH),Integer,The total number of beds in the program that are for households without children.
+Total Beds for Households with only Children (OPH),Integer,The total number of beds in the program that are for households with only children.
+Dedicated Veteran Beds (OPH),Integer,The total number of beds in the program that are dedicated to veterans.
+Dedicated Youth Beds (OPH),Integer,The total number of beds in the program that are dedicated to youth.
