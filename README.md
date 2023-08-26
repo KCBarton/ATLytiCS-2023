@@ -1,7 +1,7 @@
 # southern-data-science-conference-2023
 Repo used to track work done for 2023 Southern Data Science Conference Competition. <br>
 
-Here is the <a href="[https://docs.getdbt.com/docs/introduction](https://www.youtube.com/watch?v=HXnimWJ_SBM)">YouTube link</a> for our video presentation.
+Here is the <a href="https://www.youtube.com/watch?v=HXnimWJ_SBM">YouTube link</a> for our video presentation.
 
 ## Solving Homelessness In Atlanta
 Problems that we wanted to solve in this repo in relation to homelessness in the United States and more specifically in the state of Georgia.
